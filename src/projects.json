@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Run Buddy",
+      "image": "https://user-images.githubusercontent.com/61710672/88504558-f79dbb00-cf89-11ea-951a-52beea71b83a.png",
+      "github": "https://github.com/waveess/Run-Buddy",
+      "deployedapp": "https://waveess.github.io/Run-Buddy/",
+      "description": "Run Buddy"
+    },
+    {
+      "id": 2,
+      "name": "Movie Buzz",
+      "image": "https://user-images.githubusercontent.com/61710672/88504559-f8cee800-cf89-11ea-9a4d-29ad865733d4.png",
+      "github": "https://github.com/ns8279/Movie-buzz",
+      "deployedapp": "https://ns8279.github.io/Movie-buzz/",
+      "description": "Movie Buzz"
+    },
+    {
+        "id": 3,
+        "name": "D&D Character Builder",
+        "image": "https://user-images.githubusercontent.com/61710672/88504560-fa001500-cf89-11ea-9826-0c5035bb6c31.png",
+        "github": "https://github.com/bskutivan/character_builder",
+        "deployedapp": "https://dnd-char-builder.herokuapp.com/",
+        "description": "D&D Character Builder"
+    }
+    
+]
+  
