@@ -8,7 +8,7 @@
  * [4. Deployed Application](#4-url)
  * [5.Contributing](#5-contributing)
  * [6. Questions](#6-questions)
- * [1. Description](#1-description)
+ * [7. Available Scripts](#7-available scripts)
  
  
 
