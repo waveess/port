@@ -1,6 +1,37 @@
+
+
+## Table of Contents
+ 
+ * [1. Description](#1-description)
+ * [2. Usage](#2-usage)
+ * [3. License](#3-license)
+ * [4. Deployed Application](#4-url)
+ * [5.Contributing](#5-contributing)
+ * [6. Questions](#6-questions)
+ * [7. Available Scripts](#7-available scripts)
+ 
+
+## 1. Description
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 2. Usage
+ A blog website where developers can publish their blog posts and comment on other developers’ posts as well.
+
+##  3. License
+
+This project is licensed under MIT.
+
+## 4. URL
+
+Coming Soon!
+
+## 5. Contributing
+Rawan Fatima
+
+##  6. Questions
+If you have any questions, contact me at fatimarawan15@gmail.com or refer to my github repository: https://github.com/waveess/port
+
+##  7. Available Scripts
 
 In the project directory, you can run:
 
