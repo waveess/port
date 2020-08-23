@@ -1,6 +1,43 @@
+
+
+## Table of Contents
+ 
+ * [1. Description](#1-description)
+ * [2. Usage](#2-usage)
+ * [3. License](#3-license)
+ * [4. Deployed Application](#4-url)
+ * [5.Contributing](#5-contributing)
+ * [6. Questions](#6-questions)
+ * [7. Available Scripts](#7-)
+ 
+ 
+
+## 1. Description
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 2. Usage
+ A blog website where developers can publish their blog posts and comment on other developers’ posts as well.
+
+##  3. License
+
+This project is licensed under MIT.
+
+## 4. URL
+[React-Portfolio](https://waveess.github.io/port/).
+
+
+<img width="1440" alt="Screen Shot 2020-07-26 at 10 00 17 PM" src="https://user-images.githubusercontent.com/61710672/88505923-a1327b80-cf8d-11ea-89d2-2e6fcb61e243.png">
+<img width="1440" alt="Screen Shot 2020-07-26 at 10 00 34 PM" src="https://user-images.githubusercontent.com/61710672/88505925-a394d580-cf8d-11ea-904b-6e607894a483.png">
+![Screen Shot 2020-07-26 at 10 00 53 PM](https://user-images.githubusercontent.com/61710672/88505928-a4c60280-cf8d-11ea-8e8a-557122a5529c.png)
+<img width="1440" alt="Screen Shot 2020-07-26 at 10 01 06 PM" src="https://user-images.githubusercontent.com/61710672/88505934-a68fc600-cf8d-11ea-840b-6fec574c1b4e.png">
+
+## 5. Contributing
+Rawan Fatima
+
+##  6. Questions
+If you have any questions, contact me at fatimarawan15@gmail.com or refer to my github repository: https://github.com/waveess/port
+
+##  7. Available Scripts
 
 In the project directory, you can run:
 
