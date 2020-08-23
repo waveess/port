@@ -22,6 +22,38 @@
         "github": "https://github.com/bskutivan/character_builder",
         "deployedapp": "https://dnd-char-builder.herokuapp.com/",
         "description": "D&D Character Builder"
+    },
+    {
+      "id": 4,
+        "name": "Tech-Blog",
+        "image": "https://user-images.githubusercontent.com/61710672/90988675-7c5c0480-e549-11ea-903d-2d45cef58645.png",
+        "github": "https://github.com/waveess/blog",
+        "deployedapp": "https://tech--blog.herokuapp.com/",
+        "description": "tech-blog"
+    },
+    {
+      "id": 5,
+        "name": "Note-Taker",
+        "image": "https://user-images.githubusercontent.com/61710672/90988679-7d8d3180-e549-11ea-9288-be180abd94a2.png",
+        "github": "https://github.com/waveess/notes",
+        "deployedapp": "https://note-takerrrr.herokuapp.com/notes.html",
+        "description": "note-taker"
+    },
+    {
+      "id": 6,
+        "name": "Book-Search",
+        "image": "https://user-images.githubusercontent.com/61710672/90988473-d8258e00-e547-11ea-82ef-21a83605c01e.png",
+        "github": "https://github.com/waveess/books",
+        "deployedapp": "https://booksssss.herokuapp.com/",
+        "description": "book-search"
+    },
+    {
+      "id": 7,
+        "name": "Focus",
+        "image": "https://user-images.githubusercontent.com/61710672/90988680-7ebe5e80-e549-11ea-8025-294f70e2af69.png",
+        "github": "https://github.com/anishasnet/focus#deployed-application",
+        "deployedapp": "https://fo-cus.herokuapp.com/",
+        "description": "focus"
     }
     
 ]
